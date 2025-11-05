@@ -1,9 +1,10 @@
 # Data Mining Project – MONK’s Problems
 
-## 📊 Dataset Information
+##📊 Dataset Information
 The **MONK’s Problems** dataset is a classical benchmark in machine learning used to test classification algorithms on **categorical (symbolic)** data.  
-🔗 **Dataset Source:** [UCI Machine Learning Repository – MONK’s Problems](https://archive.ics.uci.edu/dataset/70/monk+s+problems)
+**Dataset Source:** [UCI Machine Learning Repository – MONK’s Problems](https://archive.ics.uci.edu/dataset/70/monk+s+problems)
 This project was implemented using the following Python libraries:pandas,numpy,scikit-learn,matplotlib,seaborn
+
 ---
 ### 🧾 **Phase 1 – Dataset Selection**
 - Selected dataset: **MONK’s Problems**
@@ -19,6 +20,7 @@ This project was implemented using the following Python libraries:pandas,numpy,s
   - Applied **PCA (Principal Component Analysis)** for dimensionality reduction.  
 - For categorical data, performed **Chi-squared test** to check attribute relationships.
 ---
+
 ### 🌳 **Phase 3 – Classification**
 - Implemented and compared three algorithms:
   1. **Decision Tree**
@@ -29,6 +31,7 @@ This project was implemented using the following Python libraries:pandas,numpy,s
   **Accuracy, Precision, Recall, and F1-score (per class)**  
 - Reported and compared **hyperparameters** for each model.
 ---
+
 ### 🔹 **Phase 4 – Clustering**
 - Applied **K-Means** clustering algorithm.  
 - Determined optimal number of clusters using the **Elbow Method**.  
