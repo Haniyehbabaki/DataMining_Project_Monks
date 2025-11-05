@@ -3,6 +3,7 @@
 ## 📊 Dataset Information
 The **MONK’s Problems** dataset is a classical benchmark in machine learning used to test classification algorithms on **categorical (symbolic)** data.  
 🔗 **Dataset Source:** [UCI Machine Learning Repository – MONK’s Problems](https://archive.ics.uci.edu/dataset/70/monk+s+problems)
+This project was implemented using the following Python libraries:pandas,numpy,scikit-learn,matplotlib,seaborn
 ---
 ### 🧾 **Phase 1 – Dataset Selection**
 - Selected dataset: **MONK’s Problems**
